@@ -1,5 +1,5 @@
 vti_encoding:SR|utf8-nl
-vti_timelastmodified:TR|02 Dec 2011 08:55:58 -0000
+vti_timelastmodified:TR|23 Dec 2011 20:35:34 -0000
 vti_extenderversion:SR|12.0.0.0
 vti_author:SR|bill-PC\\bill
 vti_modifiedby:SR|bill-PC\\bill
@@ -10,8 +10,8 @@ vti_syncwith_kolyyu22.cs147.org\:22/kolyyu22.cs147.org/wedj6:TW|17 Nov 2011 00:1
 vti_nexttolasttimemodified:TW|02 Dec 2011 08:52:43 -0000
 vti_syncofs_kolyyu22.cs147.org\:22/kolyyu22.cs147.org/wedj9:TW|02 Dec 2011 08:55:58 -0000
 vti_syncwith_kolyyu22.cs147.org\:22/kolyyu22.cs147.org/wedj9:TW|02 Dec 2011 08:55:58 -0000
-vti_cacheddtm:TX|02 Dec 2011 08:55:58 -0000
-vti_filesize:IR|4900
+vti_cacheddtm:TX|23 Dec 2011 20:35:34 -0000
+vti_filesize:IR|6204
 vti_cachedlinkinfo:VX|K|updatePlaylist.php K|updatePlaylist.php
 vti_cachedsvcrellinks:VX|FKUS|updatePlaylist.php FKUS|updatePlaylist.php
 vti_cachedneedsrewrite:BR|false

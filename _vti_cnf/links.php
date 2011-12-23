@@ -1,5 +1,5 @@
 vti_encoding:SR|utf8-nl
-vti_timelastmodified:TR|02 Dec 2011 08:40:18 -0000
+vti_timelastmodified:TR|23 Dec 2011 20:35:34 -0000
 vti_extenderversion:SR|12.0.0.0
 vti_author:SR|bill-PC\\bill
 vti_modifiedby:SR|bill-PC\\bill
@@ -7,10 +7,10 @@ vti_timecreated:TR|15 Nov 2011 23:11:35 -0000
 vti_backlinkinfo:VX|
 vti_syncofs_kolyyu22.cs147.org\:22/kolyyu22.cs147.org/wedj6:TW|15 Nov 2011 23:14:46 -0000
 vti_syncwith_kolyyu22.cs147.org\:22/kolyyu22.cs147.org/wedj6:TX|15 Nov 2011 23:11:35 -0000
-vti_cacheddtm:TX|02 Dec 2011 08:40:18 -0000
+vti_cacheddtm:TX|23 Dec 2011 20:35:34 -0000
 vti_filesize:IR|827
-vti_cachedlinkinfo:VX|H|images/favicon.ico H|images/57.png H|images/57.png Q|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.css Q|css/main.css Q|css/themes/theme.min.css S|http://code.jquery.com/jquery-1.6.3.min.js S|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.js
-vti_cachedsvcrellinks:VX|NHUS|images/favicon.ico FHUS|images/57.png FHUS|images/57.png NQHS|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.css FQUS|css/main.css FQUS|css/themes/theme.min.css NSHS|http://code.jquery.com/jquery-1.6.3.min.js NSHS|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.js
+vti_cachedlinkinfo:VX|H|images/favicon.ico H|images/57.png H|images/57.png Q|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.css Q|css/themes/theme.min.css Q|css/main.css S|http://code.jquery.com/jquery-1.6.3.min.js S|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.js
+vti_cachedsvcrellinks:VX|NHUS|images/favicon.ico FHUS|images/57.png FHUS|images/57.png NQHS|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.css FQUS|css/themes/theme.min.css FQUS|css/main.css NSHS|http://code.jquery.com/jquery-1.6.3.min.js NSHS|http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.js
 vti_cachedneedsrewrite:BR|false
 vti_cachedhasbots:BR|false
 vti_cachedhastheme:BR|false
